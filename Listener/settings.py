@@ -33,7 +33,7 @@ SECRET_KEY = '9h&q4591((%z+-)zj2f=h*^zg9clm=1wp^ai_kcbic_tx(x%vq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['classroom-listener.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
